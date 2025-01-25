@@ -84,7 +84,7 @@ The script sets up the following components:
 
 ## 🚀 Deployment
 
-1. Initialize and apply Terraform configuration:
+1. Initialize and apply Terraform configuration (This part also automated in scripts/setup.sh):
    ```bash
    cd terraform
    terraform init
